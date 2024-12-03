@@ -1,0 +1,14 @@
+C:\Users\dbeltrame\source\repos\Desafio1FluxoCredenciamento\Desafio1FluxoCredenciamento\bin\Debug\net8.0\Desafio1FluxoCredenciamento.exe
+C:\Users\dbeltrame\source\repos\Desafio1FluxoCredenciamento\Desafio1FluxoCredenciamento\bin\Debug\net8.0\Desafio1FluxoCredenciamento.deps.json
+C:\Users\dbeltrame\source\repos\Desafio1FluxoCredenciamento\Desafio1FluxoCredenciamento\bin\Debug\net8.0\Desafio1FluxoCredenciamento.runtimeconfig.json
+C:\Users\dbeltrame\source\repos\Desafio1FluxoCredenciamento\Desafio1FluxoCredenciamento\bin\Debug\net8.0\Desafio1FluxoCredenciamento.dll
+C:\Users\dbeltrame\source\repos\Desafio1FluxoCredenciamento\Desafio1FluxoCredenciamento\bin\Debug\net8.0\Desafio1FluxoCredenciamento.pdb
+C:\Users\dbeltrame\source\repos\Desafio1FluxoCredenciamento\Desafio1FluxoCredenciamento\obj\Debug\net8.0\Desafio1FluxoCredenciamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dbeltrame\source\repos\Desafio1FluxoCredenciamento\Desafio1FluxoCredenciamento\obj\Debug\net8.0\Desafio1FluxoCredenciamento.AssemblyInfoInputs.cache
+C:\Users\dbeltrame\source\repos\Desafio1FluxoCredenciamento\Desafio1FluxoCredenciamento\obj\Debug\net8.0\Desafio1FluxoCredenciamento.AssemblyInfo.cs
+C:\Users\dbeltrame\source\repos\Desafio1FluxoCredenciamento\Desafio1FluxoCredenciamento\obj\Debug\net8.0\Desafio1FluxoCredenciamento.csproj.CoreCompileInputs.cache
+C:\Users\dbeltrame\source\repos\Desafio1FluxoCredenciamento\Desafio1FluxoCredenciamento\obj\Debug\net8.0\Desafio1FluxoCredenciamento.dll
+C:\Users\dbeltrame\source\repos\Desafio1FluxoCredenciamento\Desafio1FluxoCredenciamento\obj\Debug\net8.0\refint\Desafio1FluxoCredenciamento.dll
+C:\Users\dbeltrame\source\repos\Desafio1FluxoCredenciamento\Desafio1FluxoCredenciamento\obj\Debug\net8.0\Desafio1FluxoCredenciamento.pdb
+C:\Users\dbeltrame\source\repos\Desafio1FluxoCredenciamento\Desafio1FluxoCredenciamento\obj\Debug\net8.0\Desafio1FluxoCredenciamento.genruntimeconfig.cache
+C:\Users\dbeltrame\source\repos\Desafio1FluxoCredenciamento\Desafio1FluxoCredenciamento\obj\Debug\net8.0\ref\Desafio1FluxoCredenciamento.dll
